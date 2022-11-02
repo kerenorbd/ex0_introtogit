@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:blue 
+Favorite food: shawarma
+Favorite musician/band:eden hasson 
+Favorite movie:forrest gump
+Requested grade in the course:110 
